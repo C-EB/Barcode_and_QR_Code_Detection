@@ -65,7 +65,7 @@ This project is a Python-based application that allows users to detect and decod
 
 ### Image Processing Example
 
-_Add an image of a detected barcode or QR code in an image here_
+[Image]!(images/image.png)
 
 ```python
 # Example code snippet for image processing
@@ -79,7 +79,7 @@ cv2.destroyAllWindows()
 
 ### Video Processing Example
 
-_Add an image of a detected barcode or QR code in a video frame here_
+[Video]!(images/video.gif)
 
 ```python
 # Example code snippet for video processing
@@ -99,7 +99,7 @@ cv2.destroyAllWindows()
 
 ### Live Stream (Webcam) Example
 
-_Add an image of a detected barcode or QR code from a live webcam stream here_
+[Live_stream]![images/live_stream.gif]
 
 ```python
 # Example code snippet for live stream processing
