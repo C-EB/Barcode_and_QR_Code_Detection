@@ -1,4 +1,4 @@
-# Barcode and QR Code Detection Project
+# Barcode and QR Code Detection
 
 ## Overview
 
