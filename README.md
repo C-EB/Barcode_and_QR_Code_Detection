@@ -12,7 +12,7 @@ This project is a Python-based application that allows users to detect and decod
 
 ## Tools and Libraries Used
 
-- **Python 3.x:** The programming language used to develop the project.
+- **Python:** The programming language used to develop the project.
 - **OpenCV:** A powerful library for real-time computer vision tasks, used here for capturing images and video, and for basic image processing.
 - **pyzbar:** A Python library used for decoding barcodes and QR codes from images.
 - **tkinter (optional):** Used to create a file dialog for selecting images or video files.
